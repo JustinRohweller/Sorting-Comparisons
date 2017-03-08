@@ -1,0 +1,2352 @@
+ 
+
+Sorted Array of length 10
+
+123 126 231 234 498 650 765 789 790 999  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		26		26
+Bubble		17		45
+Merge		24		32
+Quick		10		28
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 20
+
+2 3 9 12 17 20 31 43 45 54 56 57 67 76 78 87 90 100 121 206  
+
+Sorting Method	Swaps		Comparisons
+
+Select		20		210
+Insert		118		118
+Bubble		99		190
+Merge		127		136
+Quick		22		91
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 17
+
+12 14 32 78 345 435 543 652 765 987 3232 4354 4365 4567 5456 6789 7898  
+
+Sorting Method	Swaps		Comparisons
+
+Select		17		153
+Insert		103		103
+Bubble		87		136
+Merge		112		108
+Quick		19		67
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 14
+
+1007 1008 1009 1010 1020 1030 1040 1050 1060 1070 1080 1090 1100 1120  
+
+Sorting Method	Swaps		Comparisons
+
+Select		14		105
+Insert		13		13
+Bubble		0		91
+Merge		0		29
+Quick		13		104
+Best Sorting Method: insertion sort
+ 
+
+Sorted Array of length 10
+
+6432 7643 8641 8976 9012 9431 9653 9812 9854 9876  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		54		54
+Bubble		45		45
+Merge		60		45
+Quick		9		49
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 13
+
+121 236 653 875 985 3456 3476 4376 5376 7682 8162 8743 8763  
+
+Sorting Method	Swaps		Comparisons
+
+Select		13		91
+Insert		31		31
+Bubble		19		78
+Merge		33		39
+Quick		9		34
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 9
+
+1021 1234 1290 2398 2987 3298 3476 4129 7612  
+
+Sorting Method	Swaps		Comparisons
+
+Select		9		45
+Insert		21		21
+Bubble		13		36
+Merge		21		25
+Quick		8		23
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 26
+
+0 1 2 3 4 5 6 7 8 9 10 11 19 23 28 35 37 39 42 45 48 53 71 73 75 83  
+
+Sorting Method	Swaps		Comparisons
+
+Select		26		351
+Insert		207		207
+Bubble		182		325
+Merge		227		228
+Quick		34		122
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 10
+
+123 126 231 234 498 650 765 789 790 999  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		26		26
+Bubble		17		45
+Merge		24		32
+Quick		10		28
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 20
+
+2 3 9 12 17 20 31 43 45 54 56 57 67 76 78 87 90 100 121 206  
+
+Sorting Method	Swaps		Comparisons
+
+Select		20		210
+Insert		118		118
+Bubble		99		190
+Merge		127		136
+Quick		22		91
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 17
+
+12 14 32 78 345 435 543 652 765 987 3232 4354 4365 4567 5456 6789 7898  
+
+Sorting Method	Swaps		Comparisons
+
+Select		17		153
+Insert		103		103
+Bubble		87		136
+Merge		112		108
+Quick		19		67
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 14
+
+1007 1008 1009 1010 1020 1030 1040 1050 1060 1070 1080 1090 1100 1120  
+
+Sorting Method	Swaps		Comparisons
+
+Select		14		105
+Insert		13		13
+Bubble		0		91
+Merge		0		29
+Quick		13		104
+Best Sorting Method: insertion sort
+ 
+
+Sorted Array of length 10
+
+6432 7643 8641 8976 9012 9431 9653 9812 9854 9876  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		54		54
+Bubble		45		45
+Merge		60		45
+Quick		9		49
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 13
+
+121 236 653 875 985 3456 3476 4376 5376 7682 8162 8743 8763  
+
+Sorting Method	Swaps		Comparisons
+
+Select		13		91
+Insert		31		31
+Bubble		19		78
+Merge		33		39
+Quick		9		34
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 9
+
+1021 1234 1290 2398 2987 3298 3476 4129 7612  
+
+Sorting Method	Swaps		Comparisons
+
+Select		9		45
+Insert		21		21
+Bubble		13		36
+Merge		21		25
+Quick		8		23
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 26
+
+0 1 2 3 4 5 6 7 8 9 10 11 19 23 28 35 37 39 42 45 48 53 71 73 75 83  
+
+Sorting Method	Swaps		Comparisons
+
+Select		26		351
+Insert		207		207
+Bubble		182		325
+Merge		227		228
+Quick		34		122
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 10
+
+123 126 231 234 498 650 765 789 790 999  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		26		17
+Bubble		17		45
+Merge		24		32
+Quick		10		28
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 20
+
+2 3 9 12 17 20 31 43 45 54 56 57 67 76 78 87 90 100 121 206  
+
+Sorting Method	Swaps		Comparisons
+
+Select		20		210
+Insert		118		99
+Bubble		99		190
+Merge		127		136
+Quick		22		91
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 17
+
+12 14 32 78 345 435 543 652 765 987 3232 4354 4365 4567 5456 6789 7898  
+
+Sorting Method	Swaps		Comparisons
+
+Select		17		153
+Insert		103		87
+Bubble		87		136
+Merge		112		108
+Quick		19		67
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 14
+
+1007 1008 1009 1010 1020 1030 1040 1050 1060 1070 1080 1090 1100 1120  
+
+Sorting Method	Swaps		Comparisons
+
+Select		14		105
+Insert		13		0
+Bubble		0		91
+Merge		0		29
+Quick		13		104
+Best Sorting Method: insertion sort
+ 
+
+Sorted Array of length 10
+
+6432 7643 8641 8976 9012 9431 9653 9812 9854 9876  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		54		45
+Bubble		45		45
+Merge		60		45
+Quick		9		49
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 13
+
+121 236 653 875 985 3456 3476 4376 5376 7682 8162 8743 8763  
+
+Sorting Method	Swaps		Comparisons
+
+Select		13		91
+Insert		31		19
+Bubble		19		78
+Merge		33		39
+Quick		9		34
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 9
+
+1021 1234 1290 2398 2987 3298 3476 4129 7612  
+
+Sorting Method	Swaps		Comparisons
+
+Select		9		45
+Insert		21		13
+Bubble		13		36
+Merge		21		25
+Quick		8		23
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 26
+
+0 1 2 3 4 5 6 7 8 9 10 11 19 23 28 35 37 39 42 45 48 53 71 73 75 83  
+
+Sorting Method	Swaps		Comparisons
+
+Select		26		351
+Insert		207		182
+Bubble		182		325
+Merge		227		228
+Quick		34		122
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 10
+
+123 126 231 234 498 650 765 789 790 999  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		26		26
+Bubble		17		45
+Merge		24		32
+Quick		10		28
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 20
+
+2 3 9 12 17 20 31 43 45 54 56 57 67 76 78 87 90 100 121 206  
+
+Sorting Method	Swaps		Comparisons
+
+Select		20		210
+Insert		118		118
+Bubble		99		190
+Merge		127		136
+Quick		22		91
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 17
+
+12 14 32 78 345 435 543 652 765 987 3232 4354 4365 4567 5456 6789 7898  
+
+Sorting Method	Swaps		Comparisons
+
+Select		17		153
+Insert		103		103
+Bubble		87		136
+Merge		112		108
+Quick		19		67
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 14
+
+1007 1008 1009 1010 1020 1030 1040 1050 1060 1070 1080 1090 1100 1120  
+
+Sorting Method	Swaps		Comparisons
+
+Select		14		105
+Insert		13		13
+Bubble		0		91
+Merge		0		29
+Quick		13		104
+Best Sorting Method: insertion sort
+ 
+
+Sorted Array of length 10
+
+6432 7643 8641 8976 9012 9431 9653 9812 9854 9876  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		54		54
+Bubble		45		45
+Merge		60		45
+Quick		9		49
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 13
+
+121 236 653 875 985 3456 3476 4376 5376 7682 8162 8743 8763  
+
+Sorting Method	Swaps		Comparisons
+
+Select		13		91
+Insert		31		31
+Bubble		19		78
+Merge		33		39
+Quick		9		34
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 9
+
+1021 1234 1290 2398 2987 3298 3476 4129 7612  
+
+Sorting Method	Swaps		Comparisons
+
+Select		9		45
+Insert		21		21
+Bubble		13		36
+Merge		21		25
+Quick		8		23
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 26
+
+0 1 2 3 4 5 6 7 8 9 10 11 19 23 28 35 37 39 42 45 48 53 71 73 75 83  
+
+Sorting Method	Swaps		Comparisons
+
+Select		26		351
+Insert		207		207
+Bubble		182		325
+Merge		227		228
+Quick		34		122
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 10
+
+123 126 231 234 498 650 765 789 790 999  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		26		26
+Bubble		17		45
+Merge		24		32
+Quick		10		28
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 20
+
+2 3 9 12 17 20 31 43 45 54 56 57 67 76 78 87 90 100 121 206  
+
+Sorting Method	Swaps		Comparisons
+
+Select		20		210
+Insert		118		118
+Bubble		99		190
+Merge		127		136
+Quick		22		91
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 17
+
+12 14 32 78 345 435 543 652 765 987 3232 4354 4365 4567 5456 6789 7898  
+
+Sorting Method	Swaps		Comparisons
+
+Select		17		153
+Insert		103		103
+Bubble		87		136
+Merge		112		108
+Quick		19		67
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 14
+
+1007 1008 1009 1010 1020 1030 1040 1050 1060 1070 1080 1090 1100 1120  
+
+Sorting Method	Swaps		Comparisons
+
+Select		14		105
+Insert		13		13
+Bubble		0		91
+Merge		0		29
+Quick		13		104
+Best Sorting Method: insertion sort
+ 
+
+Sorted Array of length 10
+
+6432 7643 8641 8976 9012 9431 9653 9812 9854 9876  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		54		54
+Bubble		45		45
+Merge		60		45
+Quick		9		49
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 13
+
+121 236 653 875 985 3456 3476 4376 5376 7682 8162 8743 8763  
+
+Sorting Method	Swaps		Comparisons
+
+Select		13		91
+Insert		31		31
+Bubble		19		78
+Merge		33		39
+Quick		9		34
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 9
+
+1021 1234 1290 2398 2987 3298 3476 4129 7612  
+
+Sorting Method	Swaps		Comparisons
+
+Select		9		45
+Insert		21		21
+Bubble		13		36
+Merge		21		25
+Quick		8		23
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 26
+
+0 1 2 3 4 5 6 7 8 9 10 11 19 23 28 35 37 39 42 45 48 53 71 73 75 83  
+
+Sorting Method	Swaps		Comparisons
+
+Select		26		351
+Insert		207		207
+Bubble		182		325
+Merge		227		228
+Quick		34		122
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 10
+
+123 126 231 234 498 650 765 789 790 999  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		26		26
+Bubble		17		45
+Merge		24		17
+Quick		10		28
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 20
+
+2 3 9 12 17 20 31 43 45 54 56 57 67 76 78 87 90 100 121 206  
+
+Sorting Method	Swaps		Comparisons
+
+Select		20		210
+Insert		118		118
+Bubble		99		190
+Merge		127		99
+Quick		22		91
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 17
+
+12 14 32 78 345 435 543 652 765 987 3232 4354 4365 4567 5456 6789 7898  
+
+Sorting Method	Swaps		Comparisons
+
+Select		17		153
+Insert		103		103
+Bubble		87		136
+Merge		112		87
+Quick		19		67
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 14
+
+1007 1008 1009 1010 1020 1030 1040 1050 1060 1070 1080 1090 1100 1120  
+
+Sorting Method	Swaps		Comparisons
+
+Select		14		105
+Insert		13		13
+Bubble		0		91
+Merge		0		0
+Quick		13		104
+Best Sorting Method: merge sort
+ 
+
+Sorted Array of length 10
+
+6432 7643 8641 8976 9012 9431 9653 9812 9854 9876  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		54		54
+Bubble		45		45
+Merge		60		45
+Quick		9		49
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 13
+
+121 236 653 875 985 3456 3476 4376 5376 7682 8162 8743 8763  
+
+Sorting Method	Swaps		Comparisons
+
+Select		13		91
+Insert		31		31
+Bubble		19		78
+Merge		33		19
+Quick		9		34
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 9
+
+1021 1234 1290 2398 2987 3298 3476 4129 7612  
+
+Sorting Method	Swaps		Comparisons
+
+Select		9		45
+Insert		21		21
+Bubble		13		36
+Merge		21		13
+Quick		8		23
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 26
+
+0 1 2 3 4 5 6 7 8 9 10 11 19 23 28 35 37 39 42 45 48 53 71 73 75 83  
+
+Sorting Method	Swaps		Comparisons
+
+Select		26		351
+Insert		207		207
+Bubble		182		325
+Merge		227		182
+Quick		34		122
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 10
+
+123 126 231 234 498 650 765 789 790 999  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		26		26
+Bubble		17		45
+Merge		24		32
+Quick		10		28
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 20
+
+2 3 9 12 17 20 31 43 45 54 56 57 67 76 78 87 90 100 121 206  
+
+Sorting Method	Swaps		Comparisons
+
+Select		20		210
+Insert		118		118
+Bubble		99		190
+Merge		127		136
+Quick		22		91
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 17
+
+12 14 32 78 345 435 543 652 765 987 3232 4354 4365 4567 5456 6789 7898  
+
+Sorting Method	Swaps		Comparisons
+
+Select		17		153
+Insert		103		103
+Bubble		87		136
+Merge		112		108
+Quick		19		67
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 14
+
+1007 1008 1009 1010 1020 1030 1040 1050 1060 1070 1080 1090 1100 1120  
+
+Sorting Method	Swaps		Comparisons
+
+Select		14		105
+Insert		13		13
+Bubble		0		91
+Merge		0		29
+Quick		13		104
+Best Sorting Method: insertion sort
+ 
+
+Sorted Array of length 10
+
+6432 7643 8641 8976 9012 9431 9653 9812 9854 9876  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		54		54
+Bubble		45		45
+Merge		60		45
+Quick		9		49
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 13
+
+121 236 653 875 985 3456 3476 4376 5376 7682 8162 8743 8763  
+
+Sorting Method	Swaps		Comparisons
+
+Select		13		91
+Insert		31		31
+Bubble		19		78
+Merge		33		39
+Quick		9		34
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 9
+
+1021 1234 1290 2398 2987 3298 3476 4129 7612  
+
+Sorting Method	Swaps		Comparisons
+
+Select		9		45
+Insert		21		21
+Bubble		13		36
+Merge		21		25
+Quick		8		23
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 26
+
+0 1 2 3 4 5 6 7 8 9 10 11 19 23 28 35 37 39 42 45 48 53 71 73 75 83  
+
+Sorting Method	Swaps		Comparisons
+
+Select		26		351
+Insert		207		207
+Bubble		182		325
+Merge		227		228
+Quick		34		122
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 10
+
+123 126 231 234 498 650 765 789 790 999  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		26		26
+Bubble		17		10
+Merge		24		32
+Quick		10		28
+Best Sorting Method: bubble sort
+ 
+
+Sorted Array of length 20
+
+2 3 9 12 17 20 31 43 45 54 56 57 67 76 78 87 90 100 121 206  
+
+Sorting Method	Swaps		Comparisons
+
+Select		20		210
+Insert		118		118
+Bubble		99		20
+Merge		127		136
+Quick		22		91
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 17
+
+12 14 32 78 345 435 543 652 765 987 3232 4354 4365 4567 5456 6789 7898  
+
+Sorting Method	Swaps		Comparisons
+
+Select		17		153
+Insert		103		103
+Bubble		87		17
+Merge		112		108
+Quick		19		67
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 14
+
+1007 1008 1009 1010 1020 1030 1040 1050 1060 1070 1080 1090 1100 1120  
+
+Sorting Method	Swaps		Comparisons
+
+Select		14		105
+Insert		13		13
+Bubble		0		14
+Merge		0		29
+Quick		13		104
+Best Sorting Method: bubble sort
+ 
+
+Sorted Array of length 10
+
+6432 7643 8641 8976 9012 9431 9653 9812 9854 9876  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		54		54
+Bubble		45		10
+Merge		60		45
+Quick		9		49
+Best Sorting Method: bubble sort
+ 
+
+Sorted Array of length 13
+
+121 236 653 875 985 3456 3476 4376 5376 7682 8162 8743 8763  
+
+Sorting Method	Swaps		Comparisons
+
+Select		13		91
+Insert		31		31
+Bubble		19		13
+Merge		33		39
+Quick		9		34
+Best Sorting Method: bubble sort
+ 
+
+Sorted Array of length 9
+
+1021 1234 1290 2398 2987 3298 3476 4129 7612  
+
+Sorting Method	Swaps		Comparisons
+
+Select		9		45
+Insert		21		21
+Bubble		13		9
+Merge		21		25
+Quick		8		23
+Best Sorting Method: bubble sort
+ 
+
+Sorted Array of length 26
+
+0 1 2 3 4 5 6 7 8 9 10 11 19 23 28 35 37 39 42 45 48 53 71 73 75 83  
+
+Sorting Method	Swaps		Comparisons
+
+Select		26		351
+Insert		207		207
+Bubble		182		26
+Merge		227		228
+Quick		34		122
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 10
+
+123 126 231 234 498 650 765 789 790 999  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		26		26
+Bubble		17		45
+Merge		24		32
+Quick		10		28
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 20
+
+2 3 9 12 17 20 31 43 45 54 56 57 67 76 78 87 90 100 121 206  
+
+Sorting Method	Swaps		Comparisons
+
+Select		20		210
+Insert		118		118
+Bubble		99		190
+Merge		127		136
+Quick		22		91
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 17
+
+12 14 32 78 345 435 543 652 765 987 3232 4354 4365 4567 5456 6789 7898  
+
+Sorting Method	Swaps		Comparisons
+
+Select		17		153
+Insert		103		103
+Bubble		87		136
+Merge		112		108
+Quick		19		67
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 14
+
+1007 1008 1009 1010 1020 1030 1040 1050 1060 1070 1080 1090 1100 1120  
+
+Sorting Method	Swaps		Comparisons
+
+Select		14		105
+Insert		13		13
+Bubble		0		91
+Merge		0		29
+Quick		13		104
+Best Sorting Method: insertion sort
+ 
+
+Sorted Array of length 10
+
+6432 7643 8641 8976 9012 9431 9653 9812 9854 9876  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		54		54
+Bubble		45		45
+Merge		60		45
+Quick		9		49
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 13
+
+121 236 653 875 985 3456 3476 4376 5376 7682 8162 8743 8763  
+
+Sorting Method	Swaps		Comparisons
+
+Select		13		91
+Insert		31		31
+Bubble		19		78
+Merge		33		39
+Quick		9		34
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 9
+
+1021 1234 1290 2398 2987 3298 3476 4129 7612  
+
+Sorting Method	Swaps		Comparisons
+
+Select		9		45
+Insert		21		21
+Bubble		13		36
+Merge		21		25
+Quick		8		23
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 26
+
+0 1 2 3 4 5 6 7 8 9 10 11 19 23 28 35 37 39 42 45 48 53 71 73 75 83  
+
+Sorting Method	Swaps		Comparisons
+
+Select		26		351
+Insert		207		207
+Bubble		182		325
+Merge		227		228
+Quick		34		122
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 10
+
+123 126 231 234 498 650 765 789 790 999  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		26		26
+Bubble		17		42
+Merge		24		32
+Quick		10		28
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 20
+
+2 3 9 12 17 20 31 43 45 54 56 57 67 76 78 87 90 100 121 206  
+
+Sorting Method	Swaps		Comparisons
+
+Select		20		210
+Insert		118		118
+Bubble		99		180
+Merge		127		136
+Quick		22		91
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 17
+
+12 14 32 78 345 435 543 652 765 987 3232 4354 4365 4567 5456 6789 7898  
+
+Sorting Method	Swaps		Comparisons
+
+Select		17		153
+Insert		103		103
+Bubble		87		136
+Merge		112		108
+Quick		19		67
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 14
+
+1007 1008 1009 1010 1020 1030 1040 1050 1060 1070 1080 1090 1100 1120  
+
+Sorting Method	Swaps		Comparisons
+
+Select		14		105
+Insert		13		13
+Bubble		0		13
+Merge		0		29
+Quick		13		104
+Best Sorting Method: bubble sort
+ 
+
+Sorted Array of length 10
+
+6432 7643 8641 8976 9012 9431 9653 9812 9854 9876  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		54		54
+Bubble		45		45
+Merge		60		45
+Quick		9		49
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 13
+
+121 236 653 875 985 3456 3476 4376 5376 7682 8162 8743 8763  
+
+Sorting Method	Swaps		Comparisons
+
+Select		13		91
+Insert		31		31
+Bubble		19		57
+Merge		33		39
+Quick		9		34
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 9
+
+1021 1234 1290 2398 2987 3298 3476 4129 7612  
+
+Sorting Method	Swaps		Comparisons
+
+Select		9		45
+Insert		21		21
+Bubble		13		33
+Merge		21		25
+Quick		8		23
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 26
+
+0 1 2 3 4 5 6 7 8 9 10 11 19 23 28 35 37 39 42 45 48 53 71 73 75 83  
+
+Sorting Method	Swaps		Comparisons
+
+Select		26		351
+Insert		207		207
+Bubble		182		315
+Merge		227		228
+Quick		34		122
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 10
+
+123 126 231 234 498 650 765 789 790 999  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		26		17
+Bubble		17		42
+Merge		24		32
+Quick		10		28
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 20
+
+2 3 9 12 17 20 31 43 45 54 56 57 67 76 78 87 90 100 121 206  
+
+Sorting Method	Swaps		Comparisons
+
+Select		20		210
+Insert		118		99
+Bubble		99		180
+Merge		127		136
+Quick		22		91
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 17
+
+12 14 32 78 345 435 543 652 765 987 3232 4354 4365 4567 5456 6789 7898  
+
+Sorting Method	Swaps		Comparisons
+
+Select		17		153
+Insert		103		87
+Bubble		87		136
+Merge		112		108
+Quick		19		67
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 14
+
+1007 1008 1009 1010 1020 1030 1040 1050 1060 1070 1080 1090 1100 1120  
+
+Sorting Method	Swaps		Comparisons
+
+Select		14		105
+Insert		13		0
+Bubble		0		13
+Merge		0		29
+Quick		13		104
+Best Sorting Method: bubble sort
+ 
+
+Sorted Array of length 10
+
+6432 7643 8641 8976 9012 9431 9653 9812 9854 9876  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		54		45
+Bubble		45		45
+Merge		60		45
+Quick		9		49
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 13
+
+121 236 653 875 985 3456 3476 4376 5376 7682 8162 8743 8763  
+
+Sorting Method	Swaps		Comparisons
+
+Select		13		91
+Insert		31		19
+Bubble		19		57
+Merge		33		39
+Quick		9		34
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 9
+
+1021 1234 1290 2398 2987 3298 3476 4129 7612  
+
+Sorting Method	Swaps		Comparisons
+
+Select		9		45
+Insert		21		13
+Bubble		13		33
+Merge		21		25
+Quick		8		23
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 26
+
+0 1 2 3 4 5 6 7 8 9 10 11 19 23 28 35 37 39 42 45 48 53 71 73 75 83  
+
+Sorting Method	Swaps		Comparisons
+
+Select		26		351
+Insert		207		182
+Bubble		182		315
+Merge		227		228
+Quick		34		122
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 10
+
+123 126 231 234 498 650 765 789 790 999  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		26		17
+Bubble		17		42
+Merge		24		17
+Quick		10		28
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 20
+
+2 3 9 12 17 20 31 43 45 54 56 57 67 76 78 87 90 100 121 206  
+
+Sorting Method	Swaps		Comparisons
+
+Select		20		210
+Insert		118		99
+Bubble		99		180
+Merge		127		99
+Quick		22		91
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 17
+
+12 14 32 78 345 435 543 652 765 987 3232 4354 4365 4567 5456 6789 7898  
+
+Sorting Method	Swaps		Comparisons
+
+Select		17		153
+Insert		103		87
+Bubble		87		136
+Merge		112		87
+Quick		19		67
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 14
+
+1007 1008 1009 1010 1020 1030 1040 1050 1060 1070 1080 1090 1100 1120  
+
+Sorting Method	Swaps		Comparisons
+
+Select		14		105
+Insert		13		0
+Bubble		0		13
+Merge		0		0
+Quick		13		104
+Best Sorting Method: merge sort
+ 
+
+Sorted Array of length 10
+
+6432 7643 8641 8976 9012 9431 9653 9812 9854 9876  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		54		45
+Bubble		45		45
+Merge		60		45
+Quick		9		49
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 13
+
+121 236 653 875 985 3456 3476 4376 5376 7682 8162 8743 8763  
+
+Sorting Method	Swaps		Comparisons
+
+Select		13		91
+Insert		31		19
+Bubble		19		57
+Merge		33		19
+Quick		9		34
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 9
+
+1021 1234 1290 2398 2987 3298 3476 4129 7612  
+
+Sorting Method	Swaps		Comparisons
+
+Select		9		45
+Insert		21		13
+Bubble		13		33
+Merge		21		13
+Quick		8		23
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 26
+
+0 1 2 3 4 5 6 7 8 9 10 11 19 23 28 35 37 39 42 45 48 53 71 73 75 83  
+
+Sorting Method	Swaps		Comparisons
+
+Select		26		351
+Insert		207		182
+Bubble		182		315
+Merge		227		182
+Quick		34		122
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 10
+
+123 126 231 234 498 650 765 789 790 999  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		26		17
+Bubble		17		42
+Merge		24		32
+Quick		10		28
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 20
+
+2 3 9 12 17 20 31 43 45 54 56 57 67 76 78 87 90 100 121 206  
+
+Sorting Method	Swaps		Comparisons
+
+Select		20		210
+Insert		118		99
+Bubble		99		180
+Merge		127		136
+Quick		22		91
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 17
+
+12 14 32 78 345 435 543 652 765 987 3232 4354 4365 4567 5456 6789 7898  
+
+Sorting Method	Swaps		Comparisons
+
+Select		17		153
+Insert		103		87
+Bubble		87		136
+Merge		112		108
+Quick		19		67
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 14
+
+1007 1008 1009 1010 1020 1030 1040 1050 1060 1070 1080 1090 1100 1120  
+
+Sorting Method	Swaps		Comparisons
+
+Select		14		105
+Insert		13		0
+Bubble		0		13
+Merge		0		29
+Quick		13		104
+Best Sorting Method: bubble sort
+ 
+
+Sorted Array of length 10
+
+6432 7643 8641 8976 9012 9431 9653 9812 9854 9876  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		54		45
+Bubble		45		45
+Merge		60		45
+Quick		9		49
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 13
+
+121 236 653 875 985 3456 3476 4376 5376 7682 8162 8743 8763  
+
+Sorting Method	Swaps		Comparisons
+
+Select		13		91
+Insert		31		19
+Bubble		19		57
+Merge		33		39
+Quick		9		34
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 9
+
+1021 1234 1290 2398 2987 3298 3476 4129 7612  
+
+Sorting Method	Swaps		Comparisons
+
+Select		9		45
+Insert		21		13
+Bubble		13		33
+Merge		21		25
+Quick		8		23
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 26
+
+0 1 2 3 4 5 6 7 8 9 10 11 19 23 28 35 37 39 42 45 48 53 71 73 75 83  
+
+Sorting Method	Swaps		Comparisons
+
+Select		26		351
+Insert		207		182
+Bubble		182		315
+Merge		227		228
+Quick		34		122
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 10
+
+123 126 231 234 498 650 765 789 790 999  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		26		17
+Bubble		17		42
+Merge		24		32
+Quick		10		28
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 20
+
+2 3 9 12 17 20 31 43 45 54 56 57 67 76 78 87 90 100 121 206  
+
+Sorting Method	Swaps		Comparisons
+
+Select		20		210
+Insert		118		99
+Bubble		99		180
+Merge		127		136
+Quick		22		91
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 17
+
+12 14 32 78 345 435 543 652 765 987 3232 4354 4365 4567 5456 6789 7898  
+
+Sorting Method	Swaps		Comparisons
+
+Select		17		153
+Insert		103		87
+Bubble		87		136
+Merge		112		108
+Quick		19		67
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 14
+
+1007 1008 1009 1010 1020 1030 1040 1050 1060 1070 1080 1090 1100 1120  
+
+Sorting Method	Swaps		Comparisons
+
+Select		14		105
+Insert		13		0
+Bubble		0		13
+Merge		0		29
+Quick		13		104
+Best Sorting Method: bubble sort
+ 
+
+Sorted Array of length 10
+
+6432 7643 8641 8976 9012 9431 9653 9812 9854 9876  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		54		45
+Bubble		45		45
+Merge		60		45
+Quick		9		49
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 13
+
+121 236 653 875 985 3456 3476 4376 5376 7682 8162 8743 8763  
+
+Sorting Method	Swaps		Comparisons
+
+Select		13		91
+Insert		31		19
+Bubble		19		57
+Merge		33		39
+Quick		9		34
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 9
+
+1021 1234 1290 2398 2987 3298 3476 4129 7612  
+
+Sorting Method	Swaps		Comparisons
+
+Select		9		45
+Insert		21		13
+Bubble		13		33
+Merge		21		25
+Quick		8		23
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 26
+
+0 1 2 3 4 5 6 7 8 9 10 11 19 23 28 35 37 39 42 45 48 53 71 73 75 83  
+
+Sorting Method	Swaps		Comparisons
+
+Select		26		351
+Insert		207		182
+Bubble		182		315
+Merge		227		228
+Quick		34		122
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 10
+
+123 126 231 234 498 650 765 789 790 999  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		26		17
+Bubble		17		42
+Merge		7		32
+Quick		10		28
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 20
+
+2 3 9 12 17 20 31 43 45 54 56 57 67 76 78 87 90 100 121 206  
+
+Sorting Method	Swaps		Comparisons
+
+Select		20		210
+Insert		118		99
+Bubble		99		180
+Merge		28		136
+Quick		22		91
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 17
+
+12 14 32 78 345 435 543 652 765 987 3232 4354 4365 4567 5456 6789 7898  
+
+Sorting Method	Swaps		Comparisons
+
+Select		17		153
+Insert		103		87
+Bubble		87		136
+Merge		25		108
+Quick		19		67
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 14
+
+1007 1008 1009 1010 1020 1030 1040 1050 1060 1070 1080 1090 1100 1120  
+
+Sorting Method	Swaps		Comparisons
+
+Select		14		105
+Insert		13		0
+Bubble		0		13
+Merge		0		29
+Quick		13		104
+Best Sorting Method: bubble sort
+ 
+
+Sorted Array of length 10
+
+6432 7643 8641 8976 9012 9431 9653 9812 9854 9876  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		54		45
+Bubble		45		45
+Merge		15		45
+Quick		9		49
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 13
+
+121 236 653 875 985 3456 3476 4376 5376 7682 8162 8743 8763  
+
+Sorting Method	Swaps		Comparisons
+
+Select		13		91
+Insert		31		19
+Bubble		19		57
+Merge		14		39
+Quick		9		34
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 9
+
+1021 1234 1290 2398 2987 3298 3476 4129 7612  
+
+Sorting Method	Swaps		Comparisons
+
+Select		9		45
+Insert		21		13
+Bubble		13		33
+Merge		8		25
+Quick		8		23
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 26
+
+0 1 2 3 4 5 6 7 8 9 10 11 19 23 28 35 37 39 42 45 48 53 71 73 75 83  
+
+Sorting Method	Swaps		Comparisons
+
+Select		26		351
+Insert		207		182
+Bubble		182		315
+Merge		45		228
+Quick		34		122
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 10
+
+123 126 231 234 498 650 765 789 790 999  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		26		17
+Bubble		17		42
+Merge		22		22
+Quick		10		28
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 20
+
+2 3 9 12 17 20 31 43 45 54 56 57 67 76 78 87 90 100 121 206  
+
+Sorting Method	Swaps		Comparisons
+
+Select		20		210
+Insert		118		99
+Bubble		99		180
+Merge		65		65
+Quick		22		91
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 17
+
+12 14 32 78 345 435 543 652 765 987 3232 4354 4365 4567 5456 6789 7898  
+
+Sorting Method	Swaps		Comparisons
+
+Select		17		153
+Insert		103		87
+Bubble		87		136
+Merge		46		46
+Quick		19		67
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 14
+
+1007 1008 1009 1010 1020 1030 1040 1050 1060 1070 1080 1090 1100 1120  
+
+Sorting Method	Swaps		Comparisons
+
+Select		14		105
+Insert		13		0
+Bubble		0		13
+Merge		29		29
+Quick		13		104
+Best Sorting Method: bubble sort
+ 
+
+Sorted Array of length 10
+
+6432 7643 8641 8976 9012 9431 9653 9812 9854 9876  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		54		45
+Bubble		45		45
+Merge		15		15
+Quick		9		49
+Best Sorting Method: merge sort
+ 
+
+Sorted Array of length 13
+
+121 236 653 875 985 3456 3476 4376 5376 7682 8162 8743 8763  
+
+Sorting Method	Swaps		Comparisons
+
+Select		13		91
+Insert		31		19
+Bubble		19		57
+Merge		34		34
+Quick		9		34
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 9
+
+1021 1234 1290 2398 2987 3298 3476 4129 7612  
+
+Sorting Method	Swaps		Comparisons
+
+Select		9		45
+Insert		21		13
+Bubble		13		33
+Merge		20		20
+Quick		8		23
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 26
+
+0 1 2 3 4 5 6 7 8 9 10 11 19 23 28 35 37 39 42 45 48 53 71 73 75 83  
+
+Sorting Method	Swaps		Comparisons
+
+Select		26		351
+Insert		207		182
+Bubble		182		315
+Merge		91		91
+Quick		34		122
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 10
+
+123 126 231 234 498 650 765 789 790 999  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		26		17
+Bubble		17		42
+Merge		17		32
+Quick		10		28
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 20
+
+2 3 9 12 17 20 31 43 45 54 56 57 67 76 78 87 90 100 121 206  
+
+Sorting Method	Swaps		Comparisons
+
+Select		20		210
+Insert		118		99
+Bubble		99		180
+Merge		99		136
+Quick		22		91
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 17
+
+12 14 32 78 345 435 543 652 765 987 3232 4354 4365 4567 5456 6789 7898  
+
+Sorting Method	Swaps		Comparisons
+
+Select		17		153
+Insert		103		87
+Bubble		87		136
+Merge		87		108
+Quick		19		67
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 14
+
+1007 1008 1009 1010 1020 1030 1040 1050 1060 1070 1080 1090 1100 1120  
+
+Sorting Method	Swaps		Comparisons
+
+Select		14		105
+Insert		13		0
+Bubble		0		13
+Merge		0		29
+Quick		13		104
+Best Sorting Method: bubble sort
+ 
+
+Sorted Array of length 10
+
+6432 7643 8641 8976 9012 9431 9653 9812 9854 9876  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		54		45
+Bubble		45		45
+Merge		45		45
+Quick		9		49
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 13
+
+121 236 653 875 985 3456 3476 4376 5376 7682 8162 8743 8763  
+
+Sorting Method	Swaps		Comparisons
+
+Select		13		91
+Insert		31		19
+Bubble		19		57
+Merge		19		39
+Quick		9		34
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 9
+
+1021 1234 1290 2398 2987 3298 3476 4129 7612  
+
+Sorting Method	Swaps		Comparisons
+
+Select		9		45
+Insert		21		13
+Bubble		13		33
+Merge		13		25
+Quick		8		23
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 26
+
+0 1 2 3 4 5 6 7 8 9 10 11 19 23 28 35 37 39 42 45 48 53 71 73 75 83  
+
+Sorting Method	Swaps		Comparisons
+
+Select		26		351
+Insert		207		182
+Bubble		182		315
+Merge		182		228
+Quick		34		122
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 10
+
+123 126 231 234 498 650 765 789 790 999  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		26		17
+Bubble		17		42
+Merge		7		32
+Quick		10		28
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 20
+
+2 3 9 12 17 20 31 43 45 54 56 57 67 76 78 87 90 100 121 206  
+
+Sorting Method	Swaps		Comparisons
+
+Select		20		210
+Insert		118		99
+Bubble		99		180
+Merge		28		136
+Quick		22		91
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 17
+
+12 14 32 78 345 435 543 652 765 987 3232 4354 4365 4567 5456 6789 7898  
+
+Sorting Method	Swaps		Comparisons
+
+Select		17		153
+Insert		103		87
+Bubble		87		136
+Merge		25		108
+Quick		19		67
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 14
+
+1007 1008 1009 1010 1020 1030 1040 1050 1060 1070 1080 1090 1100 1120  
+
+Sorting Method	Swaps		Comparisons
+
+Select		14		105
+Insert		13		0
+Bubble		0		13
+Merge		0		29
+Quick		13		104
+Best Sorting Method: bubble sort
+ 
+
+Sorted Array of length 10
+
+6432 7643 8641 8976 9012 9431 9653 9812 9854 9876  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		54		45
+Bubble		45		45
+Merge		15		45
+Quick		9		49
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 13
+
+121 236 653 875 985 3456 3476 4376 5376 7682 8162 8743 8763  
+
+Sorting Method	Swaps		Comparisons
+
+Select		13		91
+Insert		31		19
+Bubble		19		57
+Merge		14		39
+Quick		9		34
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 9
+
+1021 1234 1290 2398 2987 3298 3476 4129 7612  
+
+Sorting Method	Swaps		Comparisons
+
+Select		9		45
+Insert		21		13
+Bubble		13		33
+Merge		8		25
+Quick		8		23
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 26
+
+0 1 2 3 4 5 6 7 8 9 10 11 19 23 28 35 37 39 42 45 48 53 71 73 75 83  
+
+Sorting Method	Swaps		Comparisons
+
+Select		26		351
+Insert		207		182
+Bubble		182		315
+Merge		45		228
+Quick		34		122
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 10
+
+123 126 231 234 498 650 765 789 790 999  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		26		17
+Bubble		17		42
+Merge		7		15
+Quick		10		28
+Best Sorting Method: merge sort
+ 
+
+Sorted Array of length 20
+
+2 3 9 12 17 20 31 43 45 54 56 57 67 76 78 87 90 100 121 206  
+
+Sorting Method	Swaps		Comparisons
+
+Select		20		210
+Insert		118		99
+Bubble		99		180
+Merge		28		37
+Quick		22		91
+Best Sorting Method: merge sort
+ 
+
+Sorted Array of length 17
+
+12 14 32 78 345 435 543 652 765 987 3232 4354 4365 4567 5456 6789 7898  
+
+Sorting Method	Swaps		Comparisons
+
+Select		17		153
+Insert		103		87
+Bubble		87		136
+Merge		25		21
+Quick		19		67
+Best Sorting Method: merge sort
+ 
+
+Sorted Array of length 14
+
+1007 1008 1009 1010 1020 1030 1040 1050 1060 1070 1080 1090 1100 1120  
+
+Sorting Method	Swaps		Comparisons
+
+Select		14		105
+Insert		13		0
+Bubble		0		13
+Merge		0		29
+Quick		13		104
+Best Sorting Method: bubble sort
+ 
+
+Sorted Array of length 10
+
+6432 7643 8641 8976 9012 9431 9653 9812 9854 9876  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		54		45
+Bubble		45		45
+Merge		15		0
+Quick		9		49
+Best Sorting Method: merge sort
+ 
+
+Sorted Array of length 13
+
+121 236 653 875 985 3456 3476 4376 5376 7682 8162 8743 8763  
+
+Sorting Method	Swaps		Comparisons
+
+Select		13		91
+Insert		31		19
+Bubble		19		57
+Merge		14		20
+Quick		9		34
+Best Sorting Method: merge sort
+ 
+
+Sorted Array of length 9
+
+1021 1234 1290 2398 2987 3298 3476 4129 7612  
+
+Sorting Method	Swaps		Comparisons
+
+Select		9		45
+Insert		21		13
+Bubble		13		33
+Merge		8		12
+Quick		8		23
+Best Sorting Method: merge sort
+ 
+
+Sorted Array of length 26
+
+0 1 2 3 4 5 6 7 8 9 10 11 19 23 28 35 37 39 42 45 48 53 71 73 75 83  
+
+Sorting Method	Swaps		Comparisons
+
+Select		26		351
+Insert		207		182
+Bubble		182		315
+Merge		45		46
+Quick		34		122
+Best Sorting Method: merge sort
+ 
+
+Sorted Array of length 10
+
+123 126 231 234 498 650 765 789 790 999  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		26		17
+Bubble		17		42
+Merge		7		32
+Quick		10		28
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 20
+
+2 3 9 12 17 20 31 43 45 54 56 57 67 76 78 87 90 100 121 206  
+
+Sorting Method	Swaps		Comparisons
+
+Select		20		210
+Insert		118		99
+Bubble		99		180
+Merge		28		136
+Quick		22		91
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 17
+
+12 14 32 78 345 435 543 652 765 987 3232 4354 4365 4567 5456 6789 7898  
+
+Sorting Method	Swaps		Comparisons
+
+Select		17		153
+Insert		103		87
+Bubble		87		136
+Merge		25		108
+Quick		19		67
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 14
+
+1007 1008 1009 1010 1020 1030 1040 1050 1060 1070 1080 1090 1100 1120  
+
+Sorting Method	Swaps		Comparisons
+
+Select		14		105
+Insert		13		0
+Bubble		0		13
+Merge		0		29
+Quick		13		104
+Best Sorting Method: bubble sort
+ 
+
+Sorted Array of length 10
+
+6432 7643 8641 8976 9012 9431 9653 9812 9854 9876  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		54		45
+Bubble		45		45
+Merge		15		45
+Quick		9		49
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 13
+
+121 236 653 875 985 3456 3476 4376 5376 7682 8162 8743 8763  
+
+Sorting Method	Swaps		Comparisons
+
+Select		13		91
+Insert		31		19
+Bubble		19		57
+Merge		14		39
+Quick		9		34
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 9
+
+1021 1234 1290 2398 2987 3298 3476 4129 7612  
+
+Sorting Method	Swaps		Comparisons
+
+Select		9		45
+Insert		21		13
+Bubble		13		33
+Merge		8		25
+Quick		8		23
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 26
+
+0 1 2 3 4 5 6 7 8 9 10 11 19 23 28 35 37 39 42 45 48 53 71 73 75 83  
+
+Sorting Method	Swaps		Comparisons
+
+Select		26		351
+Insert		207		182
+Bubble		182		315
+Merge		45		228
+Quick		34		122
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 10
+
+123 126 231 234 498 650 765 789 790 999  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		26		17
+Bubble		17		42
+Merge		17		15
+Quick		10		28
+Best Sorting Method: merge sort
+ 
+
+Sorted Array of length 20
+
+2 3 9 12 17 20 31 43 45 54 56 57 67 76 78 87 90 100 121 206  
+
+Sorting Method	Swaps		Comparisons
+
+Select		20		210
+Insert		118		99
+Bubble		99		180
+Merge		99		37
+Quick		22		91
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 17
+
+12 14 32 78 345 435 543 652 765 987 3232 4354 4365 4567 5456 6789 7898  
+
+Sorting Method	Swaps		Comparisons
+
+Select		17		153
+Insert		103		87
+Bubble		87		136
+Merge		87		21
+Quick		19		67
+Best Sorting Method: quick sort
+ 
+
+Sorted Array of length 14
+
+1007 1008 1009 1010 1020 1030 1040 1050 1060 1070 1080 1090 1100 1120  
+
+Sorting Method	Swaps		Comparisons
+
+Select		14		105
+Insert		13		0
+Bubble		0		13
+Merge		0		29
+Quick		13		104
+Best Sorting Method: bubble sort
+ 
+
+Sorted Array of length 10
+
+6432 7643 8641 8976 9012 9431 9653 9812 9854 9876  
+
+Sorting Method	Swaps		Comparisons
+
+Select		10		55
+Insert		54		45
+Bubble		45		45
+Merge		45		0
+Quick		9		49
+Best Sorting Method: merge sort
+ 
+
+Sorted Array of length 13
+
+121 236 653 875 985 3456 3476 4376 5376 7682 8162 8743 8763  
+
+Sorting Method	Swaps		Comparisons
+
+Select		13		91
+Insert		31		19
+Bubble		19		57
+Merge		19		20
+Quick		9		34
+Best Sorting Method: merge sort
+ 
+
+Sorted Array of length 9
+
+1021 1234 1290 2398 2987 3298 3476 4129 7612  
+
+Sorting Method	Swaps		Comparisons
+
+Select		9		45
+Insert		21		13
+Bubble		13		33
+Merge		13		12
+Quick		8		23
+Best Sorting Method: merge sort
+ 
+
+Sorted Array of length 26
+
+0 1 2 3 4 5 6 7 8 9 10 11 19 23 28 35 37 39 42 45 48 53 71 73 75 83  
+
+Sorting Method	Swaps		Comparisons
+
+Select		26		351
+Insert		207		182
+Bubble		182		315
+Merge		182		46
+Quick		34		122
+Best Sorting Method: quick sort
